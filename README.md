@@ -65,6 +65,14 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/shawngao-org/shawngao-org.svg" />
 </p>
 
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
 ---
 
 <!-- Its main projects -->

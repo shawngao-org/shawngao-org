@@ -16,8 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/shawngao-org/shawngao-org/769a50e0c534ab80ec5ff736ba9ed530c8597419/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [cloud-lock-firmware](https://github.com/shawngao-org/cloud-lock-firmware);
-- 🌱 I’m currently learning SpringCloud and Golang; 
+- 🌱 I’m currently learning SpringCloud, C/C++, Golang and more; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [shawngao.org@outlook.com](mailto:shawngao.org@outlook.com);
 

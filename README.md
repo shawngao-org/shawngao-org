@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://pic.sgtu.org/i/2024/05/04/6635ba8587588.png" />
+<img width="55%" align="right" alt="Github" src="https://raw.gitmirror.com/shawngao-org/shawngao-org/769a50e0c534ab80ec5ff736ba9ed530c8597419/git-header.svg" />
 
 - 🌱 I’m currently learning SpringCloud, C/C++, Golang and more; 
 - 💬 Ask me about anything, I am happy to help;
@@ -66,9 +66,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <p align="center">
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.gitmirror.com/shawngao-org/shawngao-org/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.gitmirror.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
 	</picture>
 </p>
 

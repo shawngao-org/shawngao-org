@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+<img width="55%" align="right" alt="Github" src="https://pic.sgtu.org/i/2024/05/04/6635ba8587588.png" />
 
 - 🌱 I’m currently learning SpringCloud, C/C++, Golang and more; 
 - 💬 Ask me about anything, I am happy to help;

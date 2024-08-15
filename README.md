@@ -75,11 +75,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
 ---
 
 <!-- Its main projects -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/shawngao-org/cloud-lock-firmware">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shawngao-org&repo=frp-admin" />
   </a>
-</p>
+</p> -->
 
 ⭐️ From [ShawnGao](https://github.com/shawngao-org)
 

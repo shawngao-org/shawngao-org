@@ -59,7 +59,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/shawngao-org/shawngao-org.svg" />
+<!--   <img alt="HitCount" src="http://hits.dwyl.com/shawngao-org/shawngao-org.svg" /> -->
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/shawngao-org/shawngao-org.svg" />
 </p>

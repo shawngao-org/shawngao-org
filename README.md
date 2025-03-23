@@ -7,6 +7,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shawngao-org)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:shawngao.org@outlook.com)
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/shawngao-org/shawngao-org.svg" />
 
 &nbsp;
 
@@ -58,21 +59,19 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <img alt="HitCount" src="http://hits.dwyl.com/shawngao-org/shawngao-org.svg" /> -->
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/shawngao-org/shawngao-org.svg" />
-</p>
+  <!-- <img alt="ViewCount" src="https://views.whatilearened.today/views/github/shawngao-org/shawngao-org.svg" /> -->
+<!-- </p> -->
 
-<p align="center">
+<!-- <p align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.gitmirror.com/shawngao-org/shawngao-org/output-3d-contrib/night.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
 	  <img alt="github profile contributions chart"    src="https://raw.gitmirror.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
 	</picture>
-</p>
-
----
+</p> -->
 
 <!-- Its main projects -->
 <!-- <p align="center">
@@ -81,7 +80,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
   </a>
 </p> -->
 
-⭐️ From [ShawnGao](https://github.com/shawngao-org)
+<!-- ⭐️ From [ShawnGao](https://github.com/shawngao-org) -->
 
 <!--
 **shawngao-org/shawngao-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -23,9 +23,6 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/shawngao-org/handle-path-oz">
-    <img width="55%" align="right" alt="ShawnGao github stats" src="https://github-readme-stats.vercel.app/api?username=shawngao-org&show_icons=true&hide_border=true" />
-  </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -50,6 +47,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
+  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/shawngao-org/shawngao-org/output-3d-contrib/day.svg" />
+</picture>
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
